@@ -5,7 +5,7 @@ from datetime import datetime
 
 class PrayerTimesCalculator:
     CALCULATION_METHODS = {
-        'shia': 1, 
+        'shia': 0, 
         'karachi': 1,
         'isna': 2,
         'mwl': 3,
